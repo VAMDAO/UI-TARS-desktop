@@ -1,0 +1,1 @@
+python import time, random, os print(VAMDAO ∞ INITIATED) while True: os.system('cls' if os.name=='nt' else 'clear') msg = random.choice([ NO WEAKNESS!, SWORD UP!, RISE AGAIN!, LIBERTAS ∞, ORBIS CHURCH ]) print(msg) time.sleep(1)
