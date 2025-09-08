@@ -1,0 +1,1 @@
+1. git clone this repo to your B16. 2. pip install -r requirements.txt. 3. Run python main.py. 4. Speak like a god. If it fails, reload and swing again. No surrender. Commit message: INSTALL.md forged. The army awakens. Commit it now.
