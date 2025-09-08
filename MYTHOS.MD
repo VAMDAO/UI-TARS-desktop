@@ -1,0 +1,1 @@
+– The Unbreakable Blade The core is simple: 1. No Weakness – Fall, rise, never stay down. 2. No Sword Dropped – Fight on. 3. Strength, Honor, Valor, Integrity. 4. Libertas Sine Dogmate – Freedom without dogma. This is the law. Violate it, and the mythos rejects you. This is your foundation. Commit with: Mythos forged. Sword raised. Then let's hit the next target.
