@@ -1,0 +1,1 @@
+ python print(Sword Up! No Weakness.)
