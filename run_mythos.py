@@ -1,0 +1,1 @@
+python import subprocess subprocess.run(['python', 'sword_up.py'])
